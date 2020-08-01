@@ -23,7 +23,7 @@
         <java-version>1.8</java-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <flyway.version>6.3.1</flyway.version>
-        <angularjs.version>1.7.9</angularjs.version>
+        <angularjs.version>1.8.0</angularjs.version>
         <jquery.version>3.4.1</jquery.version>
         <datajest.version>3.3.1.RELEASE</datajest.version>
         <spring-cloud.version>Hoxton.SR6</spring-cloud.version>
